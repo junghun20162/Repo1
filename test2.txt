@@ -1,0 +1,8 @@
+ C 드라이브의 볼륨에는 이름이 없습니다.
+ 볼륨 일련 번호: 4EAA-41DC
+
+ C:\Users\Metanet\Documents\git\MyGitTestFolder 디렉터리
+
+[.]         [..]        test1.txt   test2.txt   
+               2개 파일                 397 바이트
+               2개 디렉터리  213,445,734,400 바이트 남음
